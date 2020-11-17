@@ -2,8 +2,9 @@
 </br>
 <figure class="image">
 <img align="center"  src="https://github.com/wingardium024/blue-fenrir/blob/main/request_img.PNG">
-<figcaption>{{https://gall.dcinside.com/board/view/?id=fantasy_new&no=12883481}}</figcaption>
+<figcaption>https://gall.dcinside.com/board/view/?id=fantasy_new&no=12883481</figcaption>
 </figure>
+</br>
 </br>
 </br>
 그 소원 이루어드립니다!
