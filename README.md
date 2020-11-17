@@ -1,6 +1,6 @@
 ## 파란 늑대소녀 만들기
 </br>
-<img align="center"  src="request_img.png">
+<img align="center"  src="./request_img.png">
 </br>
 </br>
 그 소원 이루어드립니다!
