@@ -1,6 +1,6 @@
 ## 파란 늑대소녀 만들기
 </br>
-<img align="center"  src="https://raw.githubusercontent.com/wingardium024/blue-fenrir/master/img_request.png">
+<img align="center"  src="https://raw.githubusercontent.com/wingardium024/blue-fenrir/main/request_img.png">
 </br>
 </br>
 그 소원 이루어드립니다!
