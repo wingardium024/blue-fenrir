@@ -11,7 +11,7 @@
 </br>
 </br>
 </br>
-## 사용 언어 및 
+## 사용 언어 및 패키지
 
 Python, Scikit-image, Numpy
 </br>
