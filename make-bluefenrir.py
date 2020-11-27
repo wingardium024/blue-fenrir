@@ -26,12 +26,17 @@ mask = np.full(image.shape[:2], False)
 for lab_color in lab_colors:
     mask |=  color.deltaE_ciede2000(image_lab, lab_colors[lab_color])<15
 
+# mask out the eyes
+mask[295:303, 153:163].fill(False)
+mask[293:300, 183:193].fill(False)
+
 # convert the image to HSV space and change the hue(H) of the pixels in mask
 image_hsv = color.rgb2hsv(image_rgb)
 image_hsv[mask] += np.array([0.6,0,0])
 
 # save the created image
 image_rgb = color.hsv2rgb(image_hsv)
+
 io.imsave(
     'fenrir-blue.png',
     np.asarray(image_rgb, dtype=np.float),
